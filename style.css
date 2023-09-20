@@ -137,7 +137,7 @@ main input.myContato{
     width: 160px;
     font-family: var(--font02);
     font-size: 0.6em;
-    background-color: var(--cor03);
+    background-color: green;
     color: white;
     border-radius: 15px;
     border: 0px;
@@ -146,7 +146,7 @@ main input.myContato{
 
 main input.myContato:hover{
     cursor: pointer;
-    background-color: green;
+    background-color: red;
     color: white;
     box-shadow: 3px 3px 3px rgba(255, 255, 255, 0.26);
 }
@@ -460,7 +460,7 @@ input[type="submit"]{
         margin-top: 5px;
         z-index: 1;
         position: absolute;
-        right: 0%;
+        right: 1%;
     }
 
     .linkEspecial{
@@ -513,7 +513,7 @@ input[type="submit"]{
         background-position: center;
         width: 295px;
         height: 295px;
-        border: 1px solid green;
+        border: 1px solid white;
         display: inline-block;
         border-radius: 50%;
         margin: 0%;
@@ -560,7 +560,7 @@ input[type="submit"]{
         width: 160px;
         font-family: var(--font02);
         font-size: 0.7em;
-        background-color: var(--cor03);
+        background-color: green;
         color: white;
         border-radius: 15px;
         border: 0px;
@@ -569,8 +569,8 @@ input[type="submit"]{
     
     main input.myContato:hover{
         cursor: pointer;
-        background-color: white;
-        color: green;
+        background-color: red;
+        color: white;
         box-shadow: 3px 3px 3px rgba(255, 255, 255, 0.26);
     }
     
@@ -848,7 +848,7 @@ input[type="submit"]{
         margin-top: 5px;
         z-index: 1;
         position: absolute;
-        right: 0%;
+        right: 1%;
     }
 
     .linkEspecial{
@@ -901,7 +901,7 @@ input[type="submit"]{
         background-position: center;
         width: 350px;
         height: 350px;
-        border: 1px solid green;
+        border: 1px solid white;
         display: inline-block;
         border-radius: 50%;
         margin: 0%;
@@ -948,7 +948,7 @@ input[type="submit"]{
         width: 160px;
         font-family: var(--font02);
         font-size: 0.7em;
-        background-color: var(--cor03);
+        background-color: green;
         color: white;
         border-radius: 15px;
         border: 0px;
@@ -957,8 +957,8 @@ input[type="submit"]{
     
     main input.myContato:hover{
         cursor: pointer;
-        background-color: white;
-        color: green;
+        background-color: red;
+        color: white;
         box-shadow: 3px 3px 3px rgba(255, 255, 255, 0.26);
     }
     
@@ -1236,7 +1236,7 @@ input[type="submit"]{
         margin-top: 5px;
         z-index: 1;
         position: absolute;
-        right: 0%;
+        right: 1%;
     }
 
     .linkEspecial{
@@ -1289,7 +1289,7 @@ input[type="submit"]{
         background-position: center;
         width: 450px;
         height: 450px;
-        border: 1px solid green;
+        border: 1px solid white;
         display: inline-block;
         border-radius: 50%;
         margin: 0%;
@@ -1336,7 +1336,7 @@ input[type="submit"]{
         width: 160px;
         font-family: var(--font02);
         font-size: 0.7em;
-        background-color: var(--cor03);
+        background-color: green;
         color: white;
         border-radius: 15px;
         border: 0px;
@@ -1345,8 +1345,8 @@ input[type="submit"]{
     
     main input.myContato:hover{
         cursor: pointer;
-        background-color: white;
-        color: green;
+        background-color: red;
+        color: white;
         box-shadow: 3px 3px 3px rgba(255, 255, 255, 0.26);
     }
     
@@ -1627,7 +1627,7 @@ input[type="submit"]{
         width: 80%;
         padding-bottom: 1%;
         margin-top: 20px;
-        margin-right: 0%;
+        margin-right: 1%;
     }
 
     header nav a{
@@ -1701,7 +1701,7 @@ input[type="submit"]{
         background-position: center;
         width: 310px;
         height: 310px;
-        border: 1px solid green;
+        border: 1px solid white;
         display: inline-block;
         border-radius: 50%;
         margin: 0%;
@@ -1748,7 +1748,7 @@ input[type="submit"]{
         width: 160px;
         font-family: var(--font02);
         font-size: 0.7em;
-        background-color: var(--cor03);
+        background-color: green;
         color: white;
         border-radius: 15px;
         border: 0px;
@@ -1757,8 +1757,8 @@ input[type="submit"]{
     
     main input.myContato:hover{
         cursor: pointer;
-        background-color: white;
-        color: green;
+        background-color: red;
+        color: white;
         box-shadow: 3px 3px 3px rgba(255, 255, 255, 0.26);
     }
     
@@ -2165,7 +2165,7 @@ input[type="submit"]{
         width: 160px;
         font-family: var(--font02);
         font-size: 0.7em;
-        background-color: var(--cor03);
+        background-color: green;
         color: white;
         border-radius: 15px;
         border: 0px;
@@ -2174,8 +2174,8 @@ input[type="submit"]{
     
     main input.myContato:hover{
         cursor: pointer;
-        background-color: white;
-        color: green;
+        background-color: red;
+        color: white;
         box-shadow: 3px 3px 3px rgba(255, 255, 255, 0.26);
     }
     
