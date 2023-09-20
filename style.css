@@ -635,9 +635,7 @@ input[type="submit"]{
     
     
     /* PAGINA II -QUEM SOU EU- */
-    #MquemSouEu{
-        background-color: #4CAF50;
-    }
+
     #fotoQuemSouEu{
         background-image: url('imagens/outrasimagens/avatar.jpg');
         background-repeat: no-repeat;
@@ -1025,7 +1023,7 @@ input[type="submit"]{
     
     
     /* PAGINA II -QUEM SOU EU- */
-    
+  
     #fotoQuemSouEu{
         background-image: url('imagens/outrasimagens/avatar.jpg');
         background-repeat: no-repeat;
@@ -1039,7 +1037,7 @@ input[type="submit"]{
         animation: tremer .2s;
         animation-iteration-count: 3;
         margin-right: 0px;
-        margin-top: 50px;
+        margin-top: 0%;
     }
     
     #txtQuemSouEu{
@@ -1427,7 +1425,7 @@ input[type="submit"]{
         animation: tremer .2s;
         animation-iteration-count: 3;
         margin-right: 0px;
-        margin-top: 50px;
+        margin-top: 0%;
     }
     
     #txtQuemSouEu{
@@ -1847,7 +1845,7 @@ input[type="submit"]{
         animation: tremer .2s;
         animation-iteration-count: 3;
         margin-right: 0px;
-        margin-top: 100px;
+        margin-top: 170px;
     }
     
     #txtQuemSouEu{
@@ -2264,7 +2262,7 @@ input[type="submit"]{
         animation: tremer .2s;
         animation-iteration-count: 3;
         margin-right: 0px;
-        margin-top: 100px;
+        margin-top: 170px;
     }
     
     #txtQuemSouEu{
