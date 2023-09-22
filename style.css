@@ -262,16 +262,17 @@ footer{
 /* PAGINA III -PROJETOS- */
 
 #myConteiner{
+    padding-bottom: 30px;
     display: grid;
-    grid-template-columns: 400px 400px;
+    grid-template-columns: 410px 410px;
     grid-template-rows: auto;
     grid-column-gap: 20px;
-    grid-row-gap: 20px;
+    grid-row-gap: 40px;
 }
 
 .conteiners{
-    width: 400px;
-    height: 20px;
+    width: 410px;
+    height: 230px;
     color: white;
     font-family: var(--font02);
     font-size: 1.1em;
@@ -281,11 +282,43 @@ footer{
 #conteinerOne{
     background-image: url('imagens/imagensprojetos/sti3.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-position: center;
+    background-size: cover;
 }
 
-.tituloProjetos{
-    font-family: var(--font02);
+#conteinerTwo{
+    background-image: url('imagens/imagensprojetos/sgb.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#conteinerTree{
+    background-image: url('imagens/imagensprojetos/tekssys.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#conteinerFor{
+    background-image: url('imagens/imagensprojetos/onpedidos.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#conteinerFive{
+    background-image: url('imagens/imagensprojetos/chatteks.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#conteinerSixe{
+    background-image: url('imagens/imagensprojetos/webposto.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .conteiners:hover{
@@ -299,7 +332,29 @@ footer{
 
 .imagensProjetos{
     width: 100%;
-    height: 85%;
+    height: 100%;
+}
+
+.Smais{
+    width: 100%;
+    background-color: white;
+    font-family: var(--font02);
+    font-size: 1em;
+    color: green;
+    margin-top: 2px;
+    padding: 3px;
+    border: white;
+}
+
+.Smais:hover{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+#footerProjetos{
+    position: relative;
+    bottom: 0%;
 }
 
 
