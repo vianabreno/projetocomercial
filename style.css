@@ -283,42 +283,48 @@ footer{
     background-image: url('imagens/imagensprojetos/sti3.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
+    background-color: white;
 }
 
 #conteinerTwo{
     background-image: url('imagens/imagensprojetos/sgb.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
+    background-color: white;
 }
 
 #conteinerTree{
     background-image: url('imagens/imagensprojetos/tekssys.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
+    background-color: white;
 }
 
 #conteinerFor{
     background-image: url('imagens/imagensprojetos/onpedidos.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
+    background-color: white;
 }
 
 #conteinerFive{
     background-image: url('imagens/imagensprojetos/chatteks.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
+    background-color: white;
 }
 
 #conteinerSixe{
     background-image: url('imagens/imagensprojetos/webposto.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
+    background-color: white;
 }
 
 .conteiners:hover{
