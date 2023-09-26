@@ -371,8 +371,12 @@ footer{
     top: 0%;
     left: 0;
     background-color: rgba(0, 0, 0, 0.616);
-    display: flex;
+    display: none;
     justify-content: center;
+}
+
+.janela-modal.abrir{
+    display: flex;
 }
 
 .modal{
@@ -544,6 +548,7 @@ input[type="submit"]{
       transform: rotateZ(0);
     }
   }
+
 
 
 
