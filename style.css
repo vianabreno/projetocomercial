@@ -342,20 +342,14 @@ footer{
 }
 
 .Smais{
-    width: 100%;
+    width: 50%;
     background-color: white;
     font-family: var(--font02);
     font-size: 1em;
     color: green;
-    margin-top: 2px;
+    margin-bottom: 2px;
     padding: 3px;
     border: white;
-}
-
-.Smais:hover{
-    background-color: green;
-    color: white;
-    cursor: pointer;
 }
 
 #footerProjetos{
@@ -390,6 +384,15 @@ footer{
     border-radius: 20px;
 }
 
+#modal > h1{
+    font-family: var(--font01);
+    margin-bottom: 10px;
+}
+
+#modal > p{
+    font-family: var(--font02);
+}
+
 .fechar{
     position: absolute;
     top: -10px;
@@ -402,6 +405,8 @@ footer{
     color: white;
     cursor: pointer;
 }
+
+
 
 
 
@@ -548,6 +553,8 @@ input[type="submit"]{
       transform: rotateZ(0);
     }
   }
+
+
 
 
 
