@@ -358,12 +358,12 @@ footer{
 }
 
 .janela-modal{
-    margin: auto;
     width: 100%;
-    height: 1040px;
-    position: absolute;
-    top: 0%;
+    height: 100%;
+    position: fixed;
     left: 0;
+    top: 0;
+    z-index: 999;
     background-color: rgba(0, 0, 0, 0.616);
     display: none;
     justify-content: center;
@@ -375,9 +375,8 @@ footer{
 }
 
 .modal{
-    width: 60%;
-    height: 30%;
-    margin-top: 15%;
+    width: 50%;
+    height: 80%;
     background-color: rgba(255, 255, 255, 0.603);
     color: black;
     backdrop-filter: blur(10px);
@@ -390,11 +389,266 @@ footer{
     margin-bottom: 10px;
 }
 
+#modal > h2{
+    font-family: var(--font01);
+    font-size: 1.3em;
+}
+
 #modal > p{
     font-family: var(--font02);
 }
 
 .fechar{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    border: 0;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+/* Modal 02 */
+.janela-modal2{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    background-color: rgba(0, 0, 0, 0.616);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.janela-modal2.abrir2{
+    display: flex;
+}
+
+.modal2{
+    width: 50%;
+    height: 50%;
+    background-color: rgba(255, 255, 255, 0.603);
+    color: black;
+    backdrop-filter: blur(10px);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+#modal2 > h1{
+    font-family: var(--font01);
+    margin-bottom: 10px;
+}
+
+#modal2 > p{
+    font-family: var(--font02);
+}
+
+.fechar2{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    border: 0;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+/* Modal 03 */
+.janela-modal3{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    background-color: rgba(0, 0, 0, 0.616);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.janela-modal3.abrir3{
+    display: flex;
+}
+
+.modal3{
+    width: 50%;
+    height: 50%;
+    background-color: rgba(255, 255, 255, 0.603);
+    color: black;
+    backdrop-filter: blur(10px);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+#modal3 > h1{
+    font-family: var(--font01);
+    margin-bottom: 10px;
+}
+
+#modal3 > p{
+    font-family: var(--font02);
+}
+
+.fechar3{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    border: 0;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+/* Modal 04 */
+.janela-modal4{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    background-color: rgba(0, 0, 0, 0.616);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.janela-modal4.abrir4{
+    display: flex;
+}
+
+.modal4{
+    width: 50%;
+    height: 50%;
+    background-color: rgba(255, 255, 255, 0.603);
+    color: black;
+    backdrop-filter: blur(10px);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+#modal4 > h1{
+    font-family: var(--font01);
+    margin-bottom: 10px;
+}
+
+#modal4 > p{
+    font-family: var(--font02);
+}
+
+.fechar4{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    border: 0;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+/* Modal 05 */
+.janela-modal5{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    background-color: rgba(0, 0, 0, 0.616);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.janela-modal5.abrir5{
+    display: flex;
+}
+
+.modal5{
+    width: 50%;
+    height: 50%;
+    background-color: rgba(255, 255, 255, 0.603);
+    color: black;
+    backdrop-filter: blur(10px);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+#modal5 > h1{
+    font-family: var(--font01);
+    margin-bottom: 10px;
+}
+
+#modal5 > p{
+    font-family: var(--font02);
+}
+
+.fechar5{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    border: 0;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+/* Modal 06 */
+.janela-modal6{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    background-color: rgba(0, 0, 0, 0.616);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.janela-modal6.abrir6{
+    display: flex;
+}
+
+.modal6{
+    width: 50%;
+    height: 50%;
+    background-color: rgba(255, 255, 255, 0.603);
+    color: black;
+    backdrop-filter: blur(10px);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+#modal6 > h1{
+    font-family: var(--font01);
+    margin-bottom: 10px;
+}
+
+#modal6 > p{
+    font-family: var(--font02);
+}
+
+.fechar6{
     position: absolute;
     top: -10px;
     right: -10px;

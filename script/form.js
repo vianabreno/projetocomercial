@@ -2,6 +2,7 @@ class form{
     constructor(){
         this.forms = document.querySelector("#myForm")
         this.pauseForms()
+        
     }
 
 pauseForms(){
