@@ -375,7 +375,7 @@ footer{
 }
 
 .modal{
-    width: 65%;
+    width: 55%;
     background-color: rgba(255, 255, 255, 0.603);
     color: black;
     backdrop-filter: blur(10px);
@@ -429,8 +429,7 @@ footer{
 }
 
 .modal2{
-    width: 50%;
-    height: 50%;
+    width: 55%;
     background-color: rgba(255, 255, 255, 0.603);
     color: black;
     backdrop-filter: blur(10px);
@@ -445,6 +444,11 @@ footer{
 
 #modal2 > p{
     font-family: var(--font02);
+}
+
+#modal2 > h2{
+    font-family: var(--font01);
+    font-size: 1.3em;
 }
 
 .fechar2{
@@ -479,8 +483,7 @@ footer{
 }
 
 .modal3{
-    width: 50%;
-    height: 50%;
+    width: 55%;
     background-color: rgba(255, 255, 255, 0.603);
     color: black;
     backdrop-filter: blur(10px);
@@ -495,6 +498,11 @@ footer{
 
 #modal3 > p{
     font-family: var(--font02);
+}
+
+#modal3 > h2{
+    font-family: var(--font01);
+    font-size: 1.3em;
 }
 
 .fechar3{
@@ -529,8 +537,7 @@ footer{
 }
 
 .modal4{
-    width: 50%;
-    height: 50%;
+    width: 55%;
     background-color: rgba(255, 255, 255, 0.603);
     color: black;
     backdrop-filter: blur(10px);
@@ -545,6 +552,11 @@ footer{
 
 #modal4 > p{
     font-family: var(--font02);
+}
+
+#modal4 > h2{
+    font-family: var(--font01);
+    font-size: 1.3em;
 }
 
 .fechar4{
@@ -579,8 +591,7 @@ footer{
 }
 
 .modal5{
-    width: 50%;
-    height: 50%;
+    width: 55%;
     background-color: rgba(255, 255, 255, 0.603);
     color: black;
     backdrop-filter: blur(10px);
@@ -595,6 +606,11 @@ footer{
 
 #modal5 > p{
     font-family: var(--font02);
+}
+
+#modal5 > h2{
+    font-family: var(--font01);
+    font-size: 1.3em;
 }
 
 .fechar5{
@@ -629,8 +645,7 @@ footer{
 }
 
 .modal6{
-    width: 50%;
-    height: 50%;
+    width: 55%;
     background-color: rgba(255, 255, 255, 0.603);
     color: black;
     backdrop-filter: blur(10px);
@@ -645,6 +660,11 @@ footer{
 
 #modal6 > p{
     font-family: var(--font02);
+}
+
+#modal6 > h2{
+    font-family: var(--font01);
+    font-size: 1.3em;
 }
 
 .fechar6{
