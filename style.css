@@ -205,6 +205,20 @@ footer{
     right: 0;
 }
 
+#obg{
+    margin-top: 15px;
+    color: white;
+    font-family: var(--font01);
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#obgg{
+    color: green;
+    font-family: var(--font01);
+    text-align: center;
+}
+
 
 
 
