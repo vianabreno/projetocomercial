@@ -743,14 +743,13 @@ footer{
     grid-template-columns: 400px;
     grid-template-rows: auto;
     grid-column-gap: 20px;
-    grid-row-gap: 20px;
+    grid-row-gap: 30px;
 }
 
-#myForm > h1{
+.myCon{
     color: white;
     font-family: var(--font01);
     font-size: 1.2em;
-    margin-bottom: 30px;
 }
   
 form{
@@ -775,16 +774,34 @@ input[type="email"]{
 }
   
 input[type="submit"]{
-    width: 50%;
+    width: 35%;
     padding: 10px;
     background-color: #4CAF50;
     color: #fff;
     border: none;
     cursor: pointer;
+    display: inline-block;
+}
+
+input[type="reset"]{
+    width: 35%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+}
+
+#mensagem{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
 }
 
 #footerCont{
-    margin-top: 8%;
+    position: relative;
+    margin-top: 30px;
 }
 
 
