@@ -891,13 +891,14 @@ input[type="reset"]{
     #menuEspecial{
         display: block;
         text-align: right;
-        height: 36px;
-        width: 150px;
+        height: 210px;
+        width: 190px;
         padding: 0%;
         margin-top: 5px;
         z-index: 1;
         position: absolute;
         right: 3%;
+        
     }
 
     .linkEspecial{
