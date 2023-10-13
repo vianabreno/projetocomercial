@@ -967,6 +967,7 @@ input[type="reset"]{
         display: inline-block;
         width: 300px;
         height: 230px;
+        margin-bottom: 20px;
     }
     
     #navegacionTwo{
@@ -1353,6 +1354,7 @@ input[type="reset"]{
         display: inline-block;
         width: 350px;
         height: 280px;
+        margin-bottom: 20px;
     }
     
     #navegacionTwo{
@@ -1686,6 +1688,7 @@ input[type="reset"]{
         display: inline-block;
         width: 450px;
         height: 260px;
+        margin-bottom: 20px;
     }
     
     #navegacionTwo{
