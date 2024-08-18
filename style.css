@@ -311,50 +311,50 @@ footer{
 }
 
 #conteinerOne{
-    background-image: url('imagens/imagensprojetos/sti3.jpg');
+    background-image: url('imagens/imagensprojetos/wiser.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 60%;
     background-color: white;
 }
 
 #conteinerTwo{
-    background-image: url('imagens/imagensprojetos/sgb.jpg');
+    background-image: url('imagens/imagensprojetos/tekpay.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 70%;
     background-color: white;
 }
 
 #conteinerTree{
-    background-image: url('imagens/imagensprojetos/tekssys.jpg');
+    background-image: url('imagens/imagensprojetos/espaçoLaser.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 70%;
     background-color: white;
 }
 
 #conteinerFor{
-    background-image: url('imagens/imagensprojetos/onpedidos.jpg');
+    background-image: url('imagens/imagensprojetos/teksSoft.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 50%;
     background-color: white;
 }
 
 #conteinerFive{
-    background-image: url('imagens/imagensprojetos/chatteks.jpg');
+    background-image: url('imagens/imagensprojetos/zupiCria.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 50%;
     background-color: white;
 }
 
 #conteinerSixe{
-    background-image: url('imagens/imagensprojetos/webposto.jpg');
+    background-image: url('imagens/imagensprojetos/onerb.png');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 50%;
     background-color: white;
 }
 
