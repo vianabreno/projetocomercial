@@ -305,7 +305,7 @@ footer{
     width: 410px;
     height: 230px;
     color: white;
-    font-family: var(--font02);
+    font-family: var(--font01);
     font-size: 1.1em;
     border: solid 1px white;
 }
@@ -415,12 +415,12 @@ footer{
 }
 
 #modal > h1{
-    font-family: var(--font01);
+    font-family: var(--font02);
     margin-bottom: 10px;
 }
 
 #modal > h2{
-    font-family: var(--font01);
+    font-family: var(--font02);
     font-size: 1.3em;
 }
 
@@ -469,7 +469,7 @@ footer{
 }
 
 #modal2 > h1{
-    font-family: var(--font01);
+    font-family: var(--font02);
     margin-bottom: 10px;
 }
 
@@ -478,7 +478,7 @@ footer{
 }
 
 #modal2 > h2{
-    font-family: var(--font01);
+    font-family: var(--font02);
     font-size: 1.3em;
 }
 
@@ -523,7 +523,7 @@ footer{
 }
 
 #modal3 > h1{
-    font-family: var(--font01);
+    font-family: var(--font02);
     margin-bottom: 10px;
 }
 
@@ -532,7 +532,7 @@ footer{
 }
 
 #modal3 > h2{
-    font-family: var(--font01);
+    font-family: var(--font02);
     font-size: 1.3em;
 }
 
@@ -577,7 +577,7 @@ footer{
 }
 
 #modal4 > h1{
-    font-family: var(--font01);
+    font-family: var(--font02);
     margin-bottom: 10px;
 }
 
@@ -586,7 +586,7 @@ footer{
 }
 
 #modal4 > h2{
-    font-family: var(--font01);
+    font-family: var(--font02);
     font-size: 1.3em;
 }
 
@@ -631,7 +631,7 @@ footer{
 }
 
 #modal5 > h1{
-    font-family: var(--font01);
+    font-family: var(--font02);
     margin-bottom: 10px;
 }
 
@@ -640,7 +640,7 @@ footer{
 }
 
 #modal5 > h2{
-    font-family: var(--font01);
+    font-family: var(--font02);
     font-size: 1.3em;
 }
 
@@ -685,7 +685,7 @@ footer{
 }
 
 #modal6 > h1{
-    font-family: var(--font01);
+    font-family: var(--font02);
     margin-bottom: 10px;
 }
 
@@ -694,7 +694,7 @@ footer{
 }
 
 #modal6 > h2{
-    font-family: var(--font01);
+    font-family: var(--font02);
     font-size: 1.3em;
 }
 
