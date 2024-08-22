@@ -905,10 +905,12 @@ input[type="reset"]{
         display: none;
         background-color: rgba(255, 255, 255, 0.904);
         color: black;
-        border-radius: 0%;
+        border: solid 1px;
         padding-top: 11px;
         padding-bottom: 11px;
         padding-right: 8px;
+        margin-right: 20px;
+        margin-bottom: 5px;
     }
 
     .show {
@@ -1292,10 +1294,12 @@ input[type="reset"]{
         display: none;
         background-color: rgba(255, 255, 255, 0.904);
         color: black;
-        border-radius: 0%;
+        border: solid 1px;
         padding-top: 11px;
         padding-bottom: 11px;
         padding-right: 8px;
+        margin-right: 20px;
+        margin-bottom: 5px;
     }
 
     .show {
@@ -1626,10 +1630,12 @@ input[type="reset"]{
         display: none;
         background-color: rgba(255, 255, 255, 0.904);
         color: black;
-        border-radius: 0%;
+        border: solid 1px;
         padding-top: 11px;
         padding-bottom: 11px;
         padding-right: 8px;
+        margin-right: 20px;
+        margin-bottom: 5px;
     }
 
     .show {
@@ -2029,10 +2035,12 @@ input[type="reset"]{
         display: none;
         background-color: rgba(255, 255, 255, 0.904);
         color: black;
-        border-radius: 0%;
+        border: solid 1px;
         padding-top: 11px;
         padding-bottom: 11px;
         padding-right: 8px;
+        margin-right: 20px;
+        margin-bottom: 5px;
     }
 
     .show {
@@ -2442,10 +2450,12 @@ input[type="reset"]{
         display: none;
         background-color: rgba(255, 255, 255, 0.904);
         color: black;
-        border-radius: 0%;
+        border: solid 1px;
         padding-top: 11px;
         padding-bottom: 11px;
         padding-right: 8px;
+        margin-right: 20px;
+        margin-bottom: 5px;
     }
 
     .show {
